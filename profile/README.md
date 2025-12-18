@@ -12,11 +12,12 @@
 
 We specialize in **rapid and flexible prototyping** with a focus on software development.
 
-For any business, a prototype is not only a catalyst for actual production, but also a powerful weapon in market research and fundraising.
+For any business, a prototype is not only a catalyst for actual production,  
+but also a powerful weapon in market research and fundraising.
 
 We are here to help you with all of your projects so that you can firmly **"Indicate your power."**
 
----
+</div>
 
 - **Software & Hardware**
 - **Web Development**
@@ -30,4 +31,3 @@ We are here to help you with all of your projects so that you can firmly **"Indi
 🇨🇦 **sforzando Inc.** — Vancouver, Canada (Est. 2019)
 
 [🌐 sfz.dev](https://sfz.dev)
-</div>
