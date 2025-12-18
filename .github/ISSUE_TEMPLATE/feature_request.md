@@ -1,20 +1,15 @@
 ---
 name: Feature Request (機能追加)
 about: Suggest an idea for this project
-title: ''
+title: 'feat: :sparkles: '
 labels: 'enhancement'
 assignees: ''
-
 ---
 
-## Is your feature request related to a problem? Please describe.
+## Describe the desired **state** as a goal
 
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+(T. B. D.; ex. Automated testing should be completed with just a push.)
 
-## Describe the solution you'd like
+## Appendix
 
-A clear and concise description of what you want to happen.
-
-## Additional context
-
-Add any other context or screenshots about the feature request here.
+(T. B. D.; Add any other context or screenshots about the feature request here.)
